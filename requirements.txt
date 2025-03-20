@@ -1,6 +1,8 @@
 voila
 pandas
 numpy
+os
 matplotlib
+seaborn
 scikit-learn
 jupyter
